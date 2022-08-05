@@ -1,0 +1,1716 @@
+# depslib dependency file v1.0
+1610492064 source:e:\projekt wdpc\project\main.cpp
+	<allegro.h>
+
+1114359974 e:\allegro\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185119148 e:\allegro\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1611596016 e:\allegro\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185071920 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182791686 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151094810 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151094810 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611596025 e:\allegro\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 e:\allegro\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1611596035 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181987548 e:\allegro\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 e:\allegro\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 e:\allegro\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 e:\allegro\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 e:\allegro\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097984734 e:\allegro\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 e:\allegro\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1611596061 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144544848 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1611596052 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125262270 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144544848 e:\allegro\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 e:\allegro\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 e:\allegro\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 e:\allegro\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 e:\allegro\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 e:\allegro\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 e:\allegro\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149038564 e:\allegro\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 e:\allegro\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 e:\allegro\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130560498 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148165648 e:\allegro\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 e:\allegro\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 e:\allegro\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1612179739 source:e:\projekt wdpc\project\main.c
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"game.h"
+	"render.h"
+
+1612190298 source:e:\projekt wdpc\project\game.c
+	<stdlib.h>
+	<allegro.h>
+	"game.h"
+
+1612189016 e:\projekt wdpc\project\game.h
+	<stdbool.h>
+
+1611423435 e:\projekt wdpc\project\game.c
+	"game.h"
+
+1612172235 e:\projekt wdpc\project\render.h
+	<allegro.h>
+	"game.h"
+
+1612181593 source:e:\projekt wdpc\project\render.c
+	"render.h"
+
+1611663225 e:\projekt wdpc\project\main.h
+	"game.h"
+	"render.h"
+
+1612448871 source:e:\projekt wdpc\project\src\game.c
+	<stdlib.h>
+	<allegro.h>
+	"game.h"
+
+1612257439 e:\projekt wdpc\project\src\game.h
+	<stdbool.h>
+
+1612257425 source:e:\projekt wdpc\project\src\render.c
+	"render.h"
+
+1612257436 e:\projekt wdpc\project\src\render.h
+	<allegro.h>
+	"buttons.h"
+	"game.h"
+
+1612257404 source:e:\projekt wdpc\project\src\main.c
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"run.h"
+	"game.h"
+	"render.h"
+
+1612257433 e:\projekt wdpc\project\src\run.h
+
+1613655625 source:e:\projekt wdpc\project\src\run.c
+	"buttons.h"
+	"render.h"
+	"editor.h"
+	"files.h"
+	"game.h"
+	"run.h"
+
+1612257419 source:e:\projekt wdpc\project\src\buttons.c
+	"buttons.h"
+	"game.h"
+
+1612257450 e:\projekt wdpc\project\src\buttons.h
+	<stdbool.h>
+	<allegro.h>
+	"game.h"
+
+1612257416 source:e:\projekt wdpc\project\src\editor.c
+	"editor.h"
+	<allegro.h>
+
+1612257754 e:\projekt wdpc\project\src\editor.h
+	"game.h"
+
+1612268169 source:e:\projekt wdpc\project\src\files.c
+	<stdio.h>
+	"files.h"
+
+1612257442 e:\projekt wdpc\project\src\files.h
+	"game.h"
+
+1612207546 source:e:\projekt wdpc\project\src\utils.c
+	"utils.h"
+	<stdio.h>
+
+1612207553 e:\projekt wdpc\project\src\utils.h
+
+1612216758 source:e:\project\src\buttons.c
+	"buttons.h"
+	"game.h"
+
+1612215309 e:\project\src\buttons.h
+	<stdbool.h>
+	<allegro.h>
+	"game.h"
+
+1114359974 e:\project\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185119148 e:\project\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1611596016 e:\project\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185071920 e:\project\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 e:\project\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182791686 e:\project\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151094810 e:\project\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151094810 e:\project\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 e:\project\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611596025 e:\project\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 e:\project\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1611596035 e:\project\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181987548 e:\project\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 e:\project\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 e:\project\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 e:\project\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 e:\project\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097984734 e:\project\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 e:\project\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1611596061 e:\project\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144544848 e:\project\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1611596052 e:\project\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125262270 e:\project\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144544848 e:\project\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 e:\project\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 e:\project\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 e:\project\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 e:\project\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 e:\project\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 e:\project\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149038564 e:\project\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 e:\project\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 e:\project\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130560498 e:\project\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 e:\project\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148165648 e:\project\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 e:\project\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 e:\project\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1612228225 e:\project\src\game.h
+	<stdbool.h>
+
+1612222248 source:e:\project\src\editor.c
+	"editor.h"
+	<allegro.h>
+
+1612222373 e:\project\src\editor.h
+	"game.h"
+
+1612224806 source:e:\project\src\files.c
+	<stdio.h>
+	"files.h"
+
+1612224838 e:\project\src\files.h
+	"game.h"
+
+1612228252 source:e:\project\src\game.c
+	<stdlib.h>
+	<allegro.h>
+	"game.h"
+
+1612191883 source:e:\project\src\main.c
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"run.h"
+	"game.h"
+	"render.h"
+
+1612227123 e:\project\src\run.h
+
+1612227866 e:\project\src\render.h
+	<allegro.h>
+	"buttons.h"
+	"game.h"
+
+1612228038 source:e:\project\src\render.c
+	"render.h"
+	"utils.h"
+
+1612207553 e:\project\src\utils.h
+
+1612231783 source:e:\project\src\run.c
+	"buttons.h"
+	"render.h"
+	"editor.h"
+	"game.h"
+	"run.h"
+
+1612257419 source:c:\users\retailadmin\desktop\project\src\buttons.c
+	"buttons.h"
+	"game.h"
+
+1612257450 c:\users\retailadmin\desktop\project\src\buttons.h
+	<stdbool.h>
+	<allegro.h>
+	"game.h"
+
+1114359974 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185119148 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1611596016 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185071920 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182791686 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151094810 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151094810 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611596025 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1611596035 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181987548 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097984734 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1611596061 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144544848 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1611596052 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125262270 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144544848 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149038564 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130560498 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148165648 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 c:\users\retailadmin\desktop\project\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1612257439 c:\users\retailadmin\desktop\project\src\game.h
+	<stdbool.h>
+
+1612257416 source:c:\users\retailadmin\desktop\project\src\editor.c
+	"editor.h"
+	<allegro.h>
+
+1612257754 c:\users\retailadmin\desktop\project\src\editor.h
+	"game.h"
+
+1612257412 source:c:\users\retailadmin\desktop\project\src\files.c
+	<stdio.h>
+	"files.h"
+
+1612257442 c:\users\retailadmin\desktop\project\src\files.h
+	"game.h"
+
+1612257408 source:c:\users\retailadmin\desktop\project\src\game.c
+	<stdlib.h>
+	<allegro.h>
+	"game.h"
+
+1612257404 source:c:\users\retailadmin\desktop\project\src\main.c
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"run.h"
+	"game.h"
+	"render.h"
+
+1612257433 c:\users\retailadmin\desktop\project\src\run.h
+
+1612257436 c:\users\retailadmin\desktop\project\src\render.h
+	<allegro.h>
+	"buttons.h"
+	"game.h"
+
+1612257425 source:c:\users\retailadmin\desktop\project\src\render.c
+	"render.h"
+
+1612207553 c:\users\retailadmin\desktop\project\src\utils.h
+
+1612257401 source:c:\users\retailadmin\desktop\project\src\run.c
+	"buttons.h"
+	"render.h"
+	"editor.h"
+	"files.h"
+	"game.h"
+	"run.h"
+
+1114359974 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185119148 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1611596016 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185071920 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182791686 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151094810 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151094810 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611596025 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1611596035 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181987548 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097984734 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1611596061 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144544848 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1611596052 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125262270 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144544848 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149038564 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130560498 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148165648 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 e:\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1612261019 source:e:\pliki\projekty\projekt wdpc\project\src\buttons.c
+	"buttons.h"
+	"game.h"
+
+1612261050 e:\pliki\projekty\projekt wdpc\project\src\buttons.h
+	<stdbool.h>
+	<allegro.h>
+	"game.h"
+
+1114363574 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185122748 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1611599616 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185075520 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107303132 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182795286 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151098410 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151098410 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107303132 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1611599625 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136081388 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1611599635 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181991148 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102146990 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073681396 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005102408 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138616256 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097988334 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107303132 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1611599661 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144548448 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1611599652 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125265870 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144548448 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105913690 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165896876 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104438466 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142733934 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142733934 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142733934 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149042164 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110315616 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136081388 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130564098 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007253172 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148169248 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036108584 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110275726 e:\pliki\projekty\projekt wdpc\project\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1612261039 e:\pliki\projekty\projekt wdpc\project\src\game.h
+	<stdbool.h>
+
+1612261016 source:e:\pliki\projekty\projekt wdpc\project\src\editor.c
+	"editor.h"
+	<allegro.h>
+
+1612261354 e:\pliki\projekty\projekt wdpc\project\src\editor.h
+	"game.h"
+
+1612271769 source:e:\pliki\projekty\projekt wdpc\project\src\files.c
+	<stdio.h>
+	"files.h"
+
+1612261042 e:\pliki\projekty\projekt wdpc\project\src\files.h
+	"game.h"
+
+1612452471 source:e:\pliki\projekty\projekt wdpc\project\src\game.c
+	<stdlib.h>
+	<allegro.h>
+	"game.h"
+
+1612261004 source:e:\pliki\projekty\projekt wdpc\project\src\main.c
+	<stdbool.h>
+	<time.h>
+	<stdio.h>
+	"run.h"
+	"game.h"
+	"render.h"
+
+1612261033 e:\pliki\projekty\projekt wdpc\project\src\run.h
+
+1612261036 e:\pliki\projekty\projekt wdpc\project\src\render.h
+	<allegro.h>
+	"buttons.h"
+	"game.h"
+
+1612261025 source:e:\pliki\projekty\projekt wdpc\project\src\render.c
+	"render.h"
+
+1613659225 source:e:\pliki\projekty\projekt wdpc\project\src\run.c
+	"buttons.h"
+	"render.h"
+	"editor.h"
+	"files.h"
+	"game.h"
+	"run.h"
+
